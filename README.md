@@ -1,3 +1,6 @@
+# H! I'm Anand!
+
+## You can find me either coding, at college or drawing things at whiteboard (if not at these things then it's always food 🥘). If you want to connect or something, try my socials, I usually respond faster to zomato/swiggy alerts. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/foundanand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-lahoti) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://foundanand.medium.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnandLahoti03) 
