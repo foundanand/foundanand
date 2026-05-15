@@ -42,4 +42,3 @@ If you want to connect, try the socials below — my GitHub notifications have a
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-The Boring Workflows, DynamoIP, Viskkman in bio	"Ship something that speaks" — CEOs like Nick Donahue will click
